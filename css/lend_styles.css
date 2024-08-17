@@ -1,0 +1,24 @@
+
+
+.search-section {
+    margin-bottom: 20px;
+}
+
+.details-box {
+    background: #e9ecef;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.details-box h4 {
+    color: #495057;
+}
+
+.btn {
+    width: 100px;
+}
+
+#lendButton {
+    margin-right: 10px;
+}
